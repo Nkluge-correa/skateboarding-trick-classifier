@@ -1,6 +1,6 @@
 # Skateboarding Trick Classifier
 
-Este repositório contém sinais de acelerometria de um acelerômetro/gravador acoplado a um skate. Com ele foram gravadas diversas manobras de skate de 5 classes diferentes. Os sinais de acelerometria são utilizados para treinar uma rede neural para resolver a tarefa de classificação.
+This repository contains *accelerometry signals* from an accelerometer/recorder attached to a skateboard. With it, several skateboarding maneuvers of **5 different classes** were recorded. The accelerometry signals are used to train a neural network to solve the classification task.
 
 ![image-gif](https://digitalsynopsis.com/wp-content/uploads/2016/06/loading-animations-preloader-gifs-ui-ux-effects-28.gif)
 
