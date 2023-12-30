@@ -12,7 +12,7 @@ Article: _[Development of a skateboarding trick classifier using accelerometry a
 
 ---
 
-```python
+```bash
 
 ipython
 keras
@@ -31,15 +31,14 @@ tensorflow
 
 ```latex
 
-@article{correa2022trick,
-  doi = {10.5281/zenodo.6989816},
-  url = {https://github.com/Nkluge-correa/skateboarding-trick-classifier},
-  title={Skateboarding Trick Classifier},
-  author={Nicholas Kluge Corrêa},
-  year = {2022},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  note = {Last update 07 March 2022},
+@article{correa2017development,
+  title={Development of a skateboarding trick classifier using accelerometry and machine learning},
+  author={Corr{\^e}a, Nicholas Kluge and Lima, J{\'u}lio C{\'e}sar Marques de and Russomano, Thais and Santos, Marlise Araujo dos},
+  journal={Research on Biomedical Engineering},
+  volume={33},
+  pages={362--369},
+  year={2017},
+  publisher={SciELO Brasil}
 }
 
 ```
